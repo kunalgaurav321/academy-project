@@ -1,0 +1,46 @@
+// $body-color: red
+.main_container {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.form_group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.carusel_container {
+    background-color: #0085FF;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.carusel_image {
+    height:20rem;
+    width: 100%
+}
+.form-control{
+    background-color: #F5F5F5;
+}
+.login_btn {
+    background-color: #0085FF !important;
+}
+.pswd_btn{
+    background-color: #ffffff!important;
+    color: #005EB5;
+}
+.pswd_btn:hover {
+    color:#005EB5;
+}
+.carusel_text {
+    padding-left: 20%;
+    padding-right: 20%;
+    color: #F5F5F5;
+  
+}
+
